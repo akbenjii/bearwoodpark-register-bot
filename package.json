@@ -1,0 +1,18 @@
+{
+  "name": "bearwoodpark-register-bot",
+  "version": "1.0.0",
+  "description": "create mass accounts on bearwood park",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spammer"
+  ],
+  "author": "benji",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "phin": "^3.5.0"
+  }
+}
