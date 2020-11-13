@@ -1,3 +1,6 @@
+<h1 align="center"> DEPRECATED </h1>
+<p align="center"> Only two accounts can be created per hour on the same ip. (proxy version?) </p>
+
 <h1 align="center"> 🤖Bearwood Park Account Creator🤖 </h1>
 
 ![Showcase](https://i.imgur.com/UKNfvda.png)
